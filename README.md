@@ -40,8 +40,8 @@ _Add a Proteus simulation image or board setup if available_
 
 ## 📂 Folder Structure
 
-stm32-gpio-starter/
-├── Core/
-├── Drivers/
-├── .ioc
-├── README.md
+stm32-gpio-starter/<br>
+├── Core/<br>
+├── Drivers/<br>
+├── .ioc<br>
+├── README.md<br>
