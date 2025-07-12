@@ -19,7 +19,7 @@ Designed to be a clean starter template for embedded firmware projects.
 
 | Function | Pin       |
 |----------|-----------|
-| LED      | PC13      |
+| LED      | PB0       |
 
 ---
 
@@ -34,11 +34,11 @@ Designed to be a clean starter template for embedded firmware projects.
 
 ## 🖼️ Screenshots
 
-<div style="display: flex; gap: 20px; justify-content: space-between;">
+<div style="display: flex; gap: 20px; justify-content: space-between; align-items: center;">
 
-  <img src="assets/circuit.png" alt="Proteus Simulation" style="width: 49%; border-radius: 8px;" />
+  <img src="assets/circuit.png" alt="Proteus Simulation" style="height: 300px; width:49%; border-radius: 8px;" />
 
-  <img src="assets/led_on_simulation.png" alt="LED ON Simulation" style="width: 49%; border-radius: 8px;" />
+  <img src="assets/led_on_simulation.png" alt="LED ON Simulation" style="height: 300px; width:49%; border-radius: 8px;" />
 
 </div>
 
