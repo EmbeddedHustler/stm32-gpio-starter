@@ -34,7 +34,13 @@ Designed to be a clean starter template for embedded firmware projects.
 
 ## 🖼️ Screenshots
 
-_Add a Proteus simulation image or board setup if available_
+<div style="display: flex; gap: 20px; justify-content: space-between;">
+
+  <img src="assets/circuit.png" alt="Proteus Simulation" style="width: 49%; border-radius: 8px;" />
+
+  <img src="assets/led_on_simulation.png" alt="LED ON Simulation" style="width: 49%; border-radius: 8px;" />
+
+</div>
 
 ---
 
